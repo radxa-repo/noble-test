@@ -36,7 +36,7 @@
   "rockchip-alsa-config": "4.0.0-1",
   "rockchip-chromium-x11-utils": "0.2.3",
   "rockchip-iqfiles": "0.2.1",
-  "rockchip-prebuilt": "0.4.1-linux-6.1-stan-rkr1-2",
+  "rockchip-prebuilt": "0.4.1-linux-6.1-stan-rkr1-3",
   "rockchip-udev": "0.3.3",
   "rsetup": "0.4.6",
   "rtkbt-dkms": "20220330-1",
@@ -47,7 +47,7 @@
   "u-boot-latest": "2023.10-9",
   "u-boot-menu": "4.2.2",
   "u-boot-rknext": "2017.09-29",
-  "vendor-profiles": "0.4.4",
+  "vendor-profiles": "0.4.5",
   "vscodium-archive-keyring": "0.1.0",
   "xfce4-screensaver": "4.16.0-1"
 }
