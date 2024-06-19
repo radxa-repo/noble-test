@@ -19,7 +19,7 @@
   "radxa-alsa-config": "0.4.0",
   "radxa-archive-keyring": "0.2.0",
   "radxa-bootutils": "0.2.4",
-  "radxa-desktop-branding": "0.0.2",
+  "radxa-desktop-branding": "0.1.1",
   "radxa-firmware": "0.2.22",
   "radxa-otgutils": "0.3.1",
   "radxa-overlays": "0.1.9",
@@ -46,7 +46,7 @@
   "rtw89": "1.0.2+git20231023.207f9eb-1",
   "u-boot-latest": "2023.10-9",
   "u-boot-menu": "4.2.2",
-  "u-boot-rknext": "2017.09-29",
+  "u-boot-rknext": "2017.09-30",
   "vendor-profiles": "0.4.5",
   "vscodium-archive-keyring": "0.1.0",
   "xfce4-screensaver": "4.16.0-1"
