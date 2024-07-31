@@ -15,7 +15,7 @@
   "linux-stable": "6.1.68-2",
   "mesa": "git2407100600.ae3e0a.oibaf.j",
   "mraa": "2.2.0-6",
-  "r8125-dkms": "9.013.02-1-1",
+  "r8125-dkms": "9.013.02-1-2",
   "radxa-alsa-config": "0.4.0",
   "radxa-archive-keyring": "0.2.0",
   "radxa-bootutils": "0.2.4",
