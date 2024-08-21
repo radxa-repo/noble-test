@@ -4,6 +4,7 @@
   "aic8800": "3.0+git20240327.3561b08f-2",
   "android-tools-adbd": "5.1.1.r38-1.1",
   "bluetuith": "0.2.0-1",
+  "cloud-initramfs-growroot": "0.18.debian14",
   "dthelper": "10.0.2-1",
   "gl4es": "1.1.4-2",
   "libdrm": "2.4.122+git2407090927.b065db.oibaf.j",
