@@ -29,7 +29,7 @@
   "radxa-profiles": "0.4.22",
   "radxa-repo-placeholder": "0.1.1",
   "radxa-sddm-theme": "0.1.1",
-  "radxa-system-config": "0.6.9",
+  "radxa-system-config": "0.6.10",
   "radxa-touchscreen-utils": "0.3.4",
   "radxa-udev": "0.1.2",
   "radxa-xorg-wrapper": "0.2.0",
@@ -50,7 +50,7 @@
   "u-boot-latest": "2023.10-11",
   "u-boot-menu": "4.2.2",
   "u-boot-rknext": "2017.09-35",
-  "vendor-profiles": "0.4.7",
+  "vendor-profiles": "0.3.10",
   "vscodium-archive-keyring": "0.1.0",
   "xfce4-screensaver": "4.16.0-1"
 }
