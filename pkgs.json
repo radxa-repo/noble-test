@@ -12,7 +12,7 @@
   "librtui": "0.1.6",
   "linux-rk2312": "6.1.43-15",
   "linux-rk356x": "5.10.160-38",
-  "linux-rockchip": "5.10.110-38",
+  "linux-rockchip": "5.10.110-39",
   "linux-stable": "6.1.68-2",
   "mesa": "git2407100600.ae3e0a.oibaf.j",
   "mraa": "2.2.0-7",
