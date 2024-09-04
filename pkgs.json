@@ -52,5 +52,6 @@
   "u-boot-rknext": "2017.09-35",
   "vendor-profiles": "0.4.7",
   "vscodium-archive-keyring": "0.1.0",
-  "xfce4-screensaver": "4.16.0-1"
+  "xfce4-screensaver": "4.16.0-1",
+  "zfs": "2.2.5-1-1"
 }
