@@ -5,7 +5,7 @@
   "android-tools-adbd": "5.1.1.r38-1.1",
   "bluetuith": "0.2.0-1",
   "cix-prebuilt": "beta2-25.01",
-  "cix-profiles": "0.1.0",
+  "cix-profiles": "0.2.0",
   "cloud-initramfs-growroot": "0.18.debian14",
   "dthelper": "10.0.2-1",
   "edk2-cix": "0.1.1-1",
