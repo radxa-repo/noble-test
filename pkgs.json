@@ -1,10 +1,9 @@
 {
   "8821cu": "5.12.0.4+git20231215.eb52ece-3",
   "8852be-dkms": "1.15.10.0.5.0-4",
-  "aic8800": "3.0+git20240327.3561b08f-2",
+  "aic8800": "3.0+git20240327.3561b08f-3",
   "android-tools-adbd": "5.1.1.r38-1.1",
   "bluetuith": "0.2.0-1",
-  "cix-prebuilt": "beta2-25.01",
   "cix-profiles": "0.2.0",
   "cloud-initramfs-growroot": "0.18.debian14",
   "dthelper": "10.0.2-1",
