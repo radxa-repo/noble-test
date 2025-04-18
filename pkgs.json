@@ -6,7 +6,7 @@
   "bluetuith": "0.2.0-1",
   "cix-drivers-dkms": "0.1.0-1",
   "cix-prebuilt": "beta2-2503",
-  "cix-profiles": "0.2.0",
+  "cix-profiles": "0.3.0",
   "cloud-initramfs-growroot": "0.18.debian14",
   "dthelper": "10.0.2-1",
   "edk2-cix": "0.2.2-1",
