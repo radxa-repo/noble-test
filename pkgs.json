@@ -50,7 +50,7 @@
   "rknn_model_zoo": "1.6.0-1",
   "rockchip-alsa-config": "4.0.0-2",
   "rockchip-chromium-x11-utils": "0.2.3",
-  "rockchip-iqfiles": "0.2.5",
+  "rockchip-iqfiles": "0.2.6",
   "rockchip-prebuilt": "0.4.2-linux-6.1-stan-rkr4-4",
   "rockchip-udev": "0.3.3",
   "rsetup": "0.4.15",
@@ -63,7 +63,7 @@
   "u-boot-latest": "2023.10-12",
   "u-boot-menu": "4.2.2",
   "u-boot-rk2410": "2017.09-49",
-  "vendor-profiles": "0.4.11",
+  "vendor-profiles": "0.4.12",
   "vscodium-archive-keyring": "0.1.0",
   "xfce4-screensaver": "4.16.0-1",
   "zfs": "2.2.5-1-1"
