@@ -4,7 +4,7 @@
   "aic8800": "4.0+git20250410.b99ca8b6-1",
   "allwinner-prebuilt-extra": "0.1.2",
   "allwinner-prebuilt": "1.4.6-3",
-  "allwinner-profiles": "0.2.2",
+  "allwinner-profiles": "0.2.3",
   "android-tools-adbd": "5.1.1.r38-1.1",
   "aw-drivers-dkms": "0.1.0-1",
   "bluetuith": "0.2.0-1",
@@ -70,7 +70,7 @@
   "u-boot-latest": "2023.10-12",
   "u-boot-menu": "4.2.2",
   "u-boot-rk2410": "2017.09-53",
-  "vendor-profiles": "0.4.12",
+  "vendor-profiles": "0.4.13",
   "vscodium-archive-keyring": "0.1.0",
   "xfce4-screensaver": "4.16.0-1",
   "zfs": "2.2.5-1-1"
