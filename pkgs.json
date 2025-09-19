@@ -36,7 +36,7 @@
   "mesa": "git2407100600.ae3e0a.oibaf.j",
   "mpv-build": "2025.03.23.8d2ed139cd-1",
   "mraa": "2.2.0-7",
-  "qualcomm-profiles": "0.1.0-1",
+  "qualcomm-profiles": "0.1.0-2",
   "r8125-dkms": "9.013.02-1-3",
   "r8126-dkms": "10.015.00-2",
   "radxa-alsa-config": "0.4.4",
@@ -74,7 +74,7 @@
   "u-boot-latest": "2023.10-12",
   "u-boot-menu": "4.2.2",
   "u-boot-rk2410": "2017.09-53",
-  "vendor-profiles": "0.4.13",
+  "vendor-profiles": "0.4.14",
   "vscodium-archive-keyring": "0.1.0",
   "xfce4-screensaver": "4.16.0-1",
   "zfs": "2.2.5-1-1"
