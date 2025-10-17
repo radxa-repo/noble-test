@@ -44,7 +44,7 @@
   "r8126-dkms": "10.015.00-2",
   "radxa-alsa-config": "0.4.5",
   "radxa-archive-keyring": "0.2.0",
-  "radxa-bootutils": "0.2.5",
+  "radxa-bootutils": "0.2.6",
   "radxa-calamares-oem": "0.2.0",
   "radxa-desktop-branding": "0.1.4",
   "radxa-firmware": "0.2.24",
