@@ -5,6 +5,7 @@
   "allwinner-prebuilt-extra": "0.1.6",
   "allwinner-prebuilt": "1.4.6-3",
   "allwinner-profiles": "0.2.5",
+  "alsa-ucm-conf": "1.2.14-1radxa1",
   "android-tools-adbd": "5.1.1.r38-1.1",
   "aw-drivers-dkms": "0.1.0-2",
   "bluetuith": "0.2.0-1",
