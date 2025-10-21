@@ -10,7 +10,7 @@
   "aw-drivers-dkms": "0.1.0-2",
   "bluetuith": "0.2.0-1",
   "chromium-x11": "0.4.1-linux-6.1-stan-rkr1-5",
-  "cix-drivers-dkms": "0.1.0-1",
+  "cix-drivers-dkms": "0.2.1-1",
   "cix-prebuilt": "rc4-2509",
   "cix-profiles": "0.3.2",
   "cloud-initramfs-growroot": "0.18.debian14",
