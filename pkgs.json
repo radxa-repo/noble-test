@@ -61,7 +61,7 @@
   "repolib": "1.3.0",
   "rknn2": "2.3.0-1",
   "rknn_model_zoo": "1.6.0-1",
-  "rkwifibt-dkms": "0.1.0-1",
+  "rkwifibt-dkms": "0.1.0-2",
   "rockchip-alsa-config": "4.0.0-2",
   "rockchip-chromium-x11-utils": "0.2.3",
   "rockchip-iqfiles": "0.2.6",
