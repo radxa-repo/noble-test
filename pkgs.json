@@ -67,7 +67,7 @@
   "rockchip-iqfiles": "0.2.6",
   "rockchip-prebuilt": "0.4.2-linux-6.1-stan-rkr4-4",
   "rockchip-udev": "0.3.3",
-  "rsetup": "0.4.20",
+  "rsetup": "0.4.21",
   "rtkbt-dkms": "20220330-1",
   "rtl8723ds": "5.1.1.5+git20231227.52e593e-3",
   "rtl8852bu": "1.19.3-45-g7583a804a.20230505-1",
