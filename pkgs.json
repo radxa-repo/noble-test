@@ -4,7 +4,7 @@
   "aic8800": "4.0+git20250410.b99ca8b6-3",
   "allwinner-prebuilt-extra": "0.1.7",
   "allwinner-prebuilt": "1.4.6-3",
-  "allwinner-profiles": "0.2.5",
+  "allwinner-profiles": "0.2.6",
   "alsa-ucm-conf": "1.2.14-1radxa1",
   "android-tools-adbd": "5.1.1.r38-1.1",
   "aw-drivers-dkms": "0.1.0-2",
