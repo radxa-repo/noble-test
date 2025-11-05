@@ -16,7 +16,7 @@
   "cloud-initramfs-growroot": "0.18.debian14",
   "dthelper": "10.0.2-1",
   "edk2-cix": "0.3.0-1",
-  "edk2-qualcomm": "0.1.0-2",
+  "edk2-qualcomm": "0.1.0-3",
   "edl-ng": "v1.4.1",
   "embloader": "0.3",
   "fastrpc": "1.0.0-1",
