@@ -48,7 +48,7 @@
   "radxa-alsa-config": "0.4.6",
   "radxa-archive-keyring": "0.2.0",
   "radxa-bootutils": "0.2.6",
-  "radxa-calamares-oem": "0.2.0",
+  "radxa-calamares-oem": "0.3.0",
   "radxa-desktop-branding": "0.1.7",
   "radxa-firmware": "0.2.27",
   "radxa-otgutils": "0.3.2",
