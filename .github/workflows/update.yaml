@@ -10,20 +10,22 @@ jobs:
     - env:
         SECRETS: "${{ toJSON(secrets) }}"
       name: "Secret tests"
-      uses: "actions/github-script@v7"
+      uses: "actions/github-script@v8"
       with:
         script: |
           const secrets = JSON.parse(process.env.SECRETS);
-          if (secrets.GPG_KEY === undefined || secrets.RADXA_APT_KEY_2024 === undefined) {
+          if (secrets.RADXA_APT_KEY_2024 === undefined ||
+              secrets.GPG_KEY === undefined ||
+              secrets.RADXA_APT_KEY_2026 === undefined) {
               core.setFailed('Required secrets are unset!');
           }
     - name: "Checkout rsdk"
-      uses: "actions/checkout@v5"
+      uses: "actions/checkout@v6"
       with:
-        ref: "f02d27232bc4ecd552a2b4ff49a0d5d7848741a0"
+        ref: "9902e23d1f8d757c86fab0cc76fd1738e2eca7ff"
         repository: "RadxaOS-SDK/rsdk"
     - name: "Checkout current repo"
-      uses: "actions/checkout@v5"
+      uses: "actions/checkout@v6"
       with:
         path: ".infra-repo"
         token: "${{secrets.GIT_PUSH_TOKEN}}"
