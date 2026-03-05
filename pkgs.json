@@ -12,7 +12,7 @@
   "chromium-x11": "0.4.1-linux-6.1-stan-rkr1-5",
   "cix-drivers-dkms": "0.2.1-4",
   "cix-prebuilt": "rc3.3-2601",
-  "cix-profiles": "0.3.6",
+  "cix-profiles": "0.3.7",
   "cloud-initramfs-growroot": "0.18.debian14",
   "dthelper": "10.0.2-1",
   "edk2-cix": "1.1.0-2",
