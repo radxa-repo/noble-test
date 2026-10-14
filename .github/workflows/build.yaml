@@ -9,7 +9,9 @@ jobs:
       pages: "write"
     runs-on: "ubuntu-latest"
     steps:
-    - name: "Secret tests"
+    - env:
+        SECRETS: "${{ toJSON(secrets) }}"
+      name: "Secret tests"
       uses: "actions/github-script@v9"
       with:
         script: |
